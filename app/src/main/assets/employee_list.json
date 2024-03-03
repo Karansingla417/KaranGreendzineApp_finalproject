@@ -1,0 +1,122 @@
+[
+    {
+        "EMP ID": 1,
+        "name": "Arjun",
+        "date": "16-11-2000",
+        "role": "software engineer"
+    },
+    {
+        "EMP ID": 2,
+        "name": "Riya",
+        "date": "25-03-1998",
+        "role": "data analyst"
+    },
+    {
+        "EMP ID": 3,
+        "name": "Sachin",
+        "date": "02-09-1995",
+        "role": "project manager"
+    },
+    {
+        "EMP ID": 4,
+        "name": "Priya",
+        "date": "10-07-1992",
+        "role": "HR manager"
+    },
+    {
+        "EMP ID": 5,
+        "name": "Amit",
+        "date": "14-05-1990",
+        "role": "frontend developer"
+    },
+    {
+        "EMP ID": 6,
+        "name": "Neha",
+        "date": "20-12-1987",
+        "role": "UX designer"
+    },
+    {
+        "EMP ID": 7,
+        "name": "Vikas",
+        "date": "18-08-1984",
+        "role": "backend developer"
+    },
+    {
+        "EMP ID": 8,
+        "name": "Anjali",
+        "date": "22-04-1981",
+        "role": "system administrator"
+    },
+    {
+        "EMP ID": 9,
+        "name": "Rahul",
+        "date": "30-01-1978",
+        "role": "business analyst"
+    },
+    {
+        "EMP ID": 10,
+        "name": "Aisha",
+        "date": "05-11-1975",
+        "role": "UI designer"
+    },
+    {
+        "EMP ID": 11,
+        "name": "Aryan",
+        "date": "12-09-1972",
+        "role": "database administrator"
+    },
+    {
+        "EMP ID": 12,
+        "name": "Pooja",
+        "date": "08-06-1969",
+        "role": "quality assurance"
+    },
+    {
+        "EMP ID": 13,
+        "name": "Rohan",
+        "date": "24-02-1966",
+        "role": "technical writer"
+    },
+    {
+        "EMP ID": 14,
+        "name": "Neha",
+        "date": "19-10-1963",
+        "role": "network engineer"
+    },
+    {
+        "EMP ID": 15,
+        "name": "Amit",
+        "date": "28-07-1960",
+        "role": "software architect"
+    },
+    {
+        "EMP ID": 16,
+        "name": "Kavita",
+        "date": "15-03-1957",
+        "role": "IT consultant"
+    },
+    {
+        "EMP ID": 17,
+        "name": "Raj",
+        "date": "03-01-1954",
+        "role": "system analyst"
+    },
+    {
+        "EMP ID": 18,
+        "name": "Sneha",
+        "date": "11-11-1951",
+        "role": "DevOps engineer"
+    },
+    {
+        "EMP ID": 19,
+        "name": "Vivek",
+        "date": "07-09-1948",
+        "role": "cybersecurity analyst"
+    },
+    {
+        "EMP ID": 20,
+        "name": "Anita",
+        "date": "09-04-1945",
+        "role": "software tester"
+    }
+]

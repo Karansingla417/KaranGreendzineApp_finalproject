@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GreenDzineApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sde_intern">sde intern</string>
+    <string name="role">Role :</string>
+    <string name="_17_04_2002">17/04/2002</string>
+    <string name="dob">DOB :</string>
+    <string name="karan_singla">Karan singla</string>
+    <string name="name">Name :</string>
+    <string name="_1">1</string>
+    <string name="emp_id">EMP ID :</string>
+</resources>

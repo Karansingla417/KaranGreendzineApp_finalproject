@@ -1,0 +1,26 @@
+[
+    {
+        "prod": "Productivity on Monday",
+        "percent": 4
+    },
+    {
+        "prod": "Productivity on Tuesday",
+        "percent": 92
+    },
+    {
+        "prod": "Productivity on Wednesday",
+        "percent": 122
+    },
+    {
+        "prod": "Productivity on Thursday",
+        "percent": 93
+    },
+    {
+        "prod": "Productivity on Friday",
+        "percent": 89
+    },
+    {
+        "prod": "Productivity on Saturday",
+        "percent": 98
+    }
+]
